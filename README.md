@@ -1,4 +1,4 @@
-### Ola! Eu sou Angelo Pedrosa 👋🏽
+### Oi! Eu sou Angelo Pedrosa 👋🏽
 <div style="display:flex">
   <div align="center">
     <a href="https://github.com/Angelo-pdr">
