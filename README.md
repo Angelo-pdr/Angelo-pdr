@@ -1,6 +1,6 @@
 ### Oi! Eu sou Angelo Pedrosa 👋🏽
 
-## Sou estudante de Sistema de Informação
+## Sou estudante de Sistemas da Informação e entusiasta da programação
 
 - 🔥 Aperfeiçoando JavaScript e React.Js
 - 🎓 Planos 2022: Conquista fluencia em javascript e uma oportunidade na area de tecnologia
