@@ -1,5 +1,19 @@
 ### Oi! Eu sou Angelo Pedrosa 👋🏽
-##
+
+## Sou estudante de Sistema de Informação
+
+- 🔥 Aperfeiçoando JavaScript e React.Js
+- 🎓 Planos 2022: Conquista fluencia em javascript e uma oportunidade na area de tecnologia
+
+### Conecte comigo:
+
+<div> 
+  <a href="https://www.instagram.com/angelo_pdr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/angelo-pedrosa-5a8a48218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="right" width="100" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+ 
+</div>
+
 <div style="display:flex">
   <div align="center">
     <a href="https://github.com/Angelo-pdr">
@@ -16,14 +30,7 @@
   </div>
   <br>
   <div> 
-
-
+    
   ##
-<div> 
-  <a href="https://www.instagram.com/angelo_pdr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/angelo-pedrosa-5a8a48218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="right" width="100" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-  
-   ![Snake animation](https://github.com/Angelo-pdr/Angelo-pdr/blob/output/github-contribution-grid-snake.svg)
-</div>
+  ![Snake animation](https://github.com/Angelo-pdr/Angelo-pdr/blob/output/github-contribution-grid-snake.svg)
 </div>
