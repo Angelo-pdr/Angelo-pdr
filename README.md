@@ -1,8 +1,9 @@
 ### Oi! Eu sou Angelo Pedrosa 👋🏽
+##
 <div style="display:flex">
   <div align="center">
     <a href="https://github.com/Angelo-pdr">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=angelo-pdr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="192em" src="https://github-readme-stats.vercel.app/api?username=angelo-pdr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelo-pdr&layout=compact&langs_count=7&theme=midnight-purple"/>
   </div>
 
@@ -15,13 +16,14 @@
   </div>
   <br>
   <div> 
-    <hr>
 
+
+  ##
 <div> 
   <a href="https://www.instagram.com/angelo_pdr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/angelo-pedrosa-5a8a48218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Angelo-pdr/Angelo-pdr/blob/output/github-contribution-grid-snake.svg)
- 
+  <img align="right" width="100" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+  
+   ![Snake animation](https://github.com/Angelo-pdr/Angelo-pdr/blob/output/github-contribution-grid-snake.svg)
 </div>
 </div>
