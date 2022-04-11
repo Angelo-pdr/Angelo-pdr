@@ -4,10 +4,10 @@
   <div align="center">
     <a href="https://github.com/Angelo-pdr">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelo-pdr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height=100em src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelo-pdr&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelo-pdr&layout=compact&langs_count=7&theme=midnight-purple"/>
   </div>
 
-  <div style="display:block" align="left"><br>
+  <div style="display: inline_block"><br>
     <img align="center" alt="Angelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Angelo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Angelo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
