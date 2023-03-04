@@ -2,8 +2,8 @@
 
 ## Sou estudante de Sistemas da Informação e entusiasta da programação
 
-- 🔥 Aperfeiçoando Flutter e React
-- 🎓 Planos 2022: Conquista fluencia em javascript e uma oportunidade na area de tecnologia
+- 🔥 Aperfeiçoando JavaScript e React
+- 🎓 Planos 2023: Conquista fluencia em javascript e uma oportunidade na area de tecnologia
 
 ### Conecte comigo:
 
